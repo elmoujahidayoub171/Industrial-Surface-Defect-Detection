@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="HOG visualization: oriented edge pattern transformed into a histogram of gradient directions">
+<rect width="900" height="300" rx="20" fill="#08152f"/>
+<g font-family="Inter,Arial,sans-serif" fill="#e9f2ff">
+<text x="38" y="40" font-size="18" font-weight="700">HOG · HISTOGRAM OF ORIENTED GRADIENTS</text>
+<text x="62" y="82" font-size="13" fill="#a9bcda">Local gradient directions</text><text x="537" y="82" font-size="13" fill="#a9bcda">Orientation histogram (illustrative)</text>
+<rect x="60" y="100" width="288" height="150" rx="8" fill="#112648" stroke="#486b9f"/>
+<g stroke="#2c517c" stroke-width="1"><path d="M96 100V250 M132 100V250 M168 100V250 M204 100V250 M240 100V250 M276 100V250 M312 100V250 M60 130H348 M60 160H348 M60 190H348 M60 220H348"/></g>
+<g stroke="#6eafff" stroke-width="4" stroke-linecap="round"><path d="M83 126l18 15 M118 127l21 14 M158 133l0 19 M194 126l15 15 M237 132l0 20 M275 125l16 17 M312 128l18 14 M82 166l21 13 M122 164l21 13 M158 166l0 17 M193 165l18 13 M234 166l1 17 M271 166l17 12 M311 166l18 15 M84 204l19 15 M122 202l16 17 M160 203v17 M194 203l17 15 M236 204v16 M275 203l14 16 M313 202l18 17"/></g>
+<path d="M369 176H452" stroke="#78b9ff" stroke-width="3"/><path d="M452 176l-12 -7v14z" fill="#78b9ff"/>
+<g stroke="#b0c8e8" stroke-width="1.5"><path d="M532 245H843 M532 245V105"/></g>
+<g fill="#64aaff"><rect x="549" y="192" width="22" height="53" rx="3"/><rect x="584" y="148" width="22" height="97" rx="3"/><rect x="619" y="171" width="22" height="74" rx="3"/><rect x="654" y="117" width="22" height="128" rx="3"/><rect x="689" y="139" width="22" height="106" rx="3"/><rect x="724" y="181" width="22" height="64" rx="3"/><rect x="759" y="198" width="22" height="47" rx="3"/><rect x="794" y="214" width="22" height="31" rx="3"/></g>
+<text x="694" y="276" text-anchor="middle" font-size="12" fill="#a9bcda">Gradient orientation bins</text>
+</g></svg>

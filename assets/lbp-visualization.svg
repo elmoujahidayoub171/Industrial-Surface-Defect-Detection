@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="LBP visualization: neighbors compared with a center pixel to create a binary texture pattern and normalized histogram">
+<rect width="900" height="300" rx="20" fill="#08152f"/>
+<g font-family="Inter,Arial,sans-serif" fill="#e9f2ff" text-anchor="middle">
+<text x="35" y="40" text-anchor="start" font-size="18" font-weight="700">LBP · LOCAL BINARY PATTERN</text>
+<text x="185" y="80" font-size="13" fill="#a9bcda">Compare 8 neighbors with center</text>
+<g stroke="#526e9b" stroke-width="2"><rect x="95" y="99" width="61" height="48" rx="3" fill="#28446b"/><rect x="156" y="99" width="61" height="48" rx="3" fill="#455e7a"/><rect x="217" y="99" width="61" height="48" rx="3" fill="#345274"/><rect x="95" y="147" width="61" height="48" rx="3" fill="#182c4c"/><rect x="156" y="147" width="61" height="48" rx="3" fill="#216d80"/><rect x="217" y="147" width="61" height="48" rx="3" fill="#496381"/><rect x="95" y="195" width="61" height="48" rx="3" fill="#193857"/><rect x="156" y="195" width="61" height="48" rx="3" fill="#2a4972"/><rect x="217" y="195" width="61" height="48" rx="3" fill="#526c88"/></g>
+<g font-size="17" font-weight="700"><text x="126" y="129">120</text><text x="186" y="129">145</text><text x="247" y="129">95</text><text x="126" y="176">80</text><text x="186" y="176">110</text><text x="247" y="176">164</text><text x="126" y="224">98</text><text x="186" y="224">105</text><text x="247" y="224">138</text></g>
+<path d="M298 171H384" stroke="#78b9ff" stroke-width="3"/><path d="M384 171l-12 -7v14z" fill="#78b9ff"/>
+<text x="453" y="106" font-size="13" fill="#a9bcda">Binary comparisons</text><rect x="397" y="129" width="122" height="72" rx="12" fill="#17365b" stroke="#529fe8"/><text x="458" y="172" font-size="26" font-family="monospace" font-weight="700" fill="#9edcff">11010010</text>
+<path d="M529 171H596" stroke="#78b9ff" stroke-width="3"/><path d="M596 171l-12 -7v14z" fill="#78b9ff"/>
+<text x="740" y="82" font-size="13" fill="#a9bcda">Normalized histogram (10 bins)</text>
+<path d="M614 244H857 M614 244V109" stroke="#9db8dd" stroke-width="1.5"/>
+<g fill="#39cbb7"><rect x="627" y="213" width="16" height="31" rx="2"/><rect x="650" y="194" width="16" height="50" rx="2"/><rect x="673" y="155" width="16" height="89" rx="2"/><rect x="696" y="133" width="16" height="111" rx="2"/><rect x="719" y="166" width="16" height="78" rx="2"/><rect x="742" y="178" width="16" height="66" rx="2"/><rect x="765" y="209" width="16" height="35" rx="2"/><rect x="788" y="223" width="16" height="21" rx="2"/><rect x="811" y="231" width="16" height="13" rx="2"/><rect x="834" y="225" width="16" height="19" rx="2"/></g>
+<text x="456" y="234" font-size="12" fill="#a9bcda">pattern code (example)</text>
+</g></svg>
